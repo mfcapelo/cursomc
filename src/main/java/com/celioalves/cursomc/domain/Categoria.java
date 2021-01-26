@@ -1,4 +1,4 @@
-package com.celioalves.cursomc.dominio;
+package com.celioalves.cursomc.domain;
 
 import java.io.Serializable;
 
